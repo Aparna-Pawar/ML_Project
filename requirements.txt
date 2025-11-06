@@ -1,0 +1,11 @@
+pandas
+langchain-community
+langchain
+ollama
+openai
+plotly
+faiss-cpu
+pypdf2
+tiktoken
+speechrecognition
+streamlit
